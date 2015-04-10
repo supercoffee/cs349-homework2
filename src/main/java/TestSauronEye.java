@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Created by Benjamin Daschel on 4/8/15.
  */
-public class Homework2 {
+public class TestSauronEye {
 
     public static void main(String[] args) {
 

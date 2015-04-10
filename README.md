@@ -16,5 +16,3 @@ Windows: `gradlew.bat build`
 Mac/Linux: `./gradlew run`
 Windows: `gradlew.bat run`
 
-## Q & A
-***
